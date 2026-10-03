@@ -1,2 +1,4 @@
 User-agent: *
-Allow: /generic.html
+Allow: /
+
+Sitemap: https://sagar3669.github.io/my-SEO-project-/sitemap.xml
