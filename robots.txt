@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /elements.html
 
 Sitemap: https://sagar3669.github.io/my-SEO-project-/sitemap.xml
